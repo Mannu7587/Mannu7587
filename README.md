@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mannu7587
-- 👀 I’m interested in Python development
-- 🌱 I’m currently learning Python , Machine Learning , Artificial Intelligence
+- 👀 I’m interested in Software developer Role
+- 🌱 I’m working with Python, Machine Learning, Artificial Intelligence
 - 💞️ I’m looking to collaborate on Projects related to Machine Learning , Artificial Intelligence , Python Development
 - 📫 How to reach me ... My mail id : apoorvaroranituk@gmail.com
 
